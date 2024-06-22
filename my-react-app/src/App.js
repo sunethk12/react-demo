@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello React
+          This is Demo Pipeline
         </a>
       </header>
     </div>
